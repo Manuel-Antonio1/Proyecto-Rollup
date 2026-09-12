@@ -18,7 +18,11 @@ export default {
                     dest:"dist/asset"
                 }
             ]
-        })
-     
+        }),
+        css({
+            output:'bundle.css'
+        }),
+        html(),
+        image(),
     ]
 }
