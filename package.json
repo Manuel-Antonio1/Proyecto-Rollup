@@ -1,0 +1,28 @@
+{
+  "name": "proyecto-rollup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manuel-Antonio1/Proyecto-Rollup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Manuel-Antonio1/Proyecto-Rollup/issues"
+  },
+  "homepage": "https://github.com/Manuel-Antonio1/Proyecto-Rollup#readme",
+  "dependencies": {
+    "rollup": "^4.63.2"
+  },
+  "devDependencies": {
+    "@rollup/plugin-html": "^2.0.0",
+    "@rollup/plugin-image": "^3.0.3",
+    "rollup-plugin-copy": "^3.5.0",
+    "rollup-plugin-css-only": "^4.5.5"
+  }
+}
